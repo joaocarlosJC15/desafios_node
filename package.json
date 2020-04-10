@@ -1,0 +1,25 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "Desafio 1 Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaocarlosJC15/desafio1_node.git"
+  },
+  "author": "João Carlos Alvim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaocarlosJC15/desafio1_node/issues"
+  },
+  "homepage": "https://github.com/joaocarlosJC15/desafio1_node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
