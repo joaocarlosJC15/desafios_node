@@ -1,2 +1,3 @@
-# desafio1_node
-Desafio 1 Node Js
+Desafio 1: API básica utilizando express.
+
+
